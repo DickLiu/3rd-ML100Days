@@ -39,10 +39,11 @@ Thumbs.db
 Desktop.ini
 
 
-
+data/
 report/
 *.pdf
 .ipynb_checkpoints/
 *.txt
 *.xml
 *.png
+homework/Day_004_first_EDA.ipynb
