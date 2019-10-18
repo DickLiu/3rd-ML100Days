@@ -45,7 +45,6 @@ report/
 .ipynb_checkpoints/
 *.txt
 *.xml
-*.png
 ANS/*
 homework/Day_004_first_EDA.ipynb
 homework/Day_005-1_build_dataframe_from_scratch.ipynb
