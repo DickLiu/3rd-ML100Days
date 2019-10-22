@@ -42,6 +42,7 @@ Desktop.ini
 data/
 report/
 *.pdf
+*.csv
 .ipynb_checkpoints/
 *.txt
 *.xml
@@ -88,3 +89,4 @@ homework/Day_048_HW.csv
 homework/Day_020_HW.ipynb
 homework/Day_020_HW.ipynb
 homework/Day_020_HW.ipynb
+homework/Day_049_Blending.ipynb
