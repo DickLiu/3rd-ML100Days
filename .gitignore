@@ -120,3 +120,7 @@ homework/Day74-Gradient Descent_math.ipynb
 homework/Day74-Gradient Descent_Math_2.ipynb
 homework/Day75-Back_Propagation_Advanced.ipynb
 homework/Day75-Back_Propagation.ipynb
+homework/saved_models/keras_cifar10_trained_model.h5
+homework/saved_models/keras_cifar10_trained_model_dick.h5
+homework/D76-optimizer_example.ipynb
+homework/D76-Optimizers___.ipynb
