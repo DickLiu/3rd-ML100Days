@@ -129,3 +129,7 @@ homework/Day078_CheckBeforeTrain.ipynb
 homework/Day079_LearningRateEffect.ipynb
 homework/Day082_Dropout.ipynb
 homework/Day081_Regulization.ipynb
+homework/Day083_BatchNorm.ipynb
+homework/Day085_CB_EarlyStop.ipynb
+homework/Day086_CB_ModelCheckPoint.ipynb
+homework/day_086_best_val_loss_weights.h5
