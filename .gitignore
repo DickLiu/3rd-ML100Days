@@ -142,3 +142,5 @@ homework/Day94-CNN_Convolution .ipynb
 homework/Day95-CNN_Pooling_Padding.ipynb
 homework/Day097_Keras_CNN_vs_DNN.ipynb
 homework/Day099_data_augmentation.ipynb
+homework/Day100_transfer_learning.ipynb
+homework/resnet_builder.py
